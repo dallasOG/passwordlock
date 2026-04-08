@@ -110,3 +110,9 @@ async function main() {
     }
 }
 main();
+
+// ============ RODAR O CODIGO ============
+
+// npx ts-node --transpileOnly cofre.ts testar
+// npx ts-node --transpileOnly cofre.ts cifrar mensagem.txt
+// npx ts-node --transpileOnly cofre.ts decifrar mensagem.txt.cifrado
